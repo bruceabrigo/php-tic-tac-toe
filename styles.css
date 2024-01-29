@@ -1,0 +1,20 @@
+#box {
+    background-color: #c3ccb5;
+    border: 3px solid #008000;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    text-align: center;
+    margin: 5px;
+}
+
+#go, #again {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#again {
+    background-color: #ffcc00;
+}
